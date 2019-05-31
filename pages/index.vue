@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs-settings-test
+        Nuxt.js Settings Test
       </h1>
       <h2 class="subtitle">
         My dazzling Nuxt.js project
