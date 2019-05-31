@@ -1,0 +1,1 @@
+# nuxtjs-settings-test
