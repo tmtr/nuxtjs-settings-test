@@ -9,6 +9,10 @@ const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
 export default {
   mode: 'universal',
 
+  server: {
+    host: '0.0.0.0'
+  },
+
   /*
   ** Headers of the page
   */
